@@ -21,3 +21,14 @@ Benjamin Q. Huynh
 
 * RFs worked much better than ARIMA and RNNs - RNNs would need many more parallel timelines
 * Prediction of count data on log-transformed data introduces bias (apparently)
+
+
+## Aug 27, 2018
+
+### Speaker
+
+Robert Kaplan
+
+### Articles
+
+
