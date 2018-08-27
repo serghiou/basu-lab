@@ -1,5 +1,7 @@
 # Basu Lab Journal Club
 
+<div align="justify">
+
 ## Aug 13, 2018
 
 ### Speaker
@@ -39,6 +41,7 @@ Benjamin Q. Huynh
 
 ### Notes
 
+</div>
 
 
 
